@@ -1,0 +1,5 @@
+{
+    "loss_rate": 0.1,
+    "corrupt_rate": 0.1,
+    "bit_error_rate": 0.01
+}
